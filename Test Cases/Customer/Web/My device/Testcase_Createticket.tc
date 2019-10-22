@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Testcase_Createticket</name>
+   <tag></tag>
+   <comment>Create ticket in the My device</comment>
+   <testCaseGuid>48edcf64-f3e3-4560-88e5-325897c5f1e0</testCaseGuid>
+</TestCaseEntity>

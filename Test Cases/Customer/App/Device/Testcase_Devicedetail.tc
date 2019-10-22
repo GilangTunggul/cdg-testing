@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Testcase_Devicedetail</name>
+   <tag></tag>
+   <comment>Device detail</comment>
+   <testCaseGuid>4b0b9282-e0ea-4f79-a0bd-1c128370c8ec</testCaseGuid>
+</TestCaseEntity>

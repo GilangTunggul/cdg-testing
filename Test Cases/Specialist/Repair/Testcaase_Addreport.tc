@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Testcaase_Addreport</name>
+   <tag></tag>
+   <comment>Show categories report</comment>
+   <testCaseGuid>224f3273-838f-49ff-8954-462e932add00</testCaseGuid>
+</TestCaseEntity>

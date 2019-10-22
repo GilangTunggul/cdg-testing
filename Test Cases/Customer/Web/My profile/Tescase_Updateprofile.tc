@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tescase_Updateprofile</name>
+   <tag></tag>
+   <comment>Changed profile detail</comment>
+   <testCaseGuid>0cc1d84c-3a05-4a03-bb7d-adf4036660af</testCaseGuid>
+</TestCaseEntity>

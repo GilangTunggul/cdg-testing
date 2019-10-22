@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestCase_CanceledTicket</name>
+   <tag></tag>
+   <comment>Success to cancel ticket</comment>
+   <testCaseGuid>856b189b-69b7-45a2-bed8-1035ef8653ef</testCaseGuid>
+</TestCaseEntity>

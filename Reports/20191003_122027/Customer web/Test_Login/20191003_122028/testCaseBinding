@@ -1,0 +1,5 @@
+{"testCaseName":"Test Cases/Customer/Web/Login/Testcase_Signup","testCaseId":"Test Cases/Customer/Web/Login/Testcase_Signup"}
+{"testCaseName":"Test Cases/Customer/Web/Login/Testcase_Login","testCaseId":"Test Cases/Customer/Web/Login/Testcase_Login"}
+{"testCaseName":"Test Cases/Customer/Web/Login/Testcase_Forgotpassword","testCaseId":"Test Cases/Customer/Web/Login/Testcase_Forgotpassword"}
+{"testCaseName":"Test Cases/Customer/Web/Login/Testcase_ResetPassword","testCaseId":"Test Cases/Customer/Web/Login/Testcase_ResetPassword"}
+{"testCaseName":"Test Cases/Customer/Web/Login/TestCase_DestroySessionLogin","testCaseId":"Test Cases/Customer/Web/Login/TestCase_DestroySessionLogin"}

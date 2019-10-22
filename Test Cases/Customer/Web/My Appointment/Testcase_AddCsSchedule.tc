@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Testcase_AddCsSchedule</name>
+   <tag></tag>
+   <comment>Add schedule specialist
+Add schedule submit
+Add schedule Pickup</comment>
+   <testCaseGuid>cd4173a4-a3fd-410d-a26c-6d1741cecd80</testCaseGuid>
+</TestCaseEntity>

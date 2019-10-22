@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Testcase_Submitdevice</name>
+   <tag></tag>
+   <comment>Changed submit status when device submit to ph</comment>
+   <testCaseGuid>80adc17d-6083-4e70-96e8-6c88093b59b6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestCase_TrackingTicket</name>
+   <tag></tag>
+   <comment>Appear tracking ticket</comment>
+   <testCaseGuid>0440369a-2d33-4068-ae86-4f6a0f24d974</testCaseGuid>
+</TestCaseEntity>

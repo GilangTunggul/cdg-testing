@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Testcase_Timebydate</name>
+   <tag></tag>
+   <comment>Show time by date</comment>
+   <testCaseGuid>6210b4b3-a60b-43fb-9733-f886e602d97f</testCaseGuid>
+</TestCaseEntity>

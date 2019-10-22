@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-18T14:38:50</date>
+  <millis>1560839930457</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/Admin/Test_Productlist</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">Test_Productlist</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/Admin/Test_Productlist</property>
+</record>
+<record>
+  <date>2019-06-18T14:38:50</date>
+  <millis>1560839930470</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = hrmlabs - GIV</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">hrmlabs - GIV</property>
+</record>
+<record>
+  <date>2019-06-18T14:38:50</date>
+  <millis>1560839930471</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Windows 10 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Windows 10 64bit</property>
+</record>
+<record>
+  <date>2019-06-18T14:38:50</date>
+  <millis>1560839930472</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 192.168.1.11</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">192.168.1.11</property>
+</record>
+<record>
+  <date>2019-06-18T14:38:50</date>
+  <millis>1560839930472</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 6.1.5.3</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">6.1.5.3</property>
+</record>
+<record>
+  <date>2019-06-18T14:38:50</date>
+  <millis>1560839930701</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Admin/Customer list/Testcase_Customerlist</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Admin/Customer list/Testcase_Customerlist</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Admin/Customer list/Testcase_Customerlist</property>
+  <property name="source">H:\\Katalon Studio\\API\\CDG - test\\Test Cases\\Admin\\Customer list\\Testcase_Customerlist.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-06-18T14:38:50</date>
+  <millis>1560839930979</millis>
+  <sequence>7</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : return null</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">-1</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-06-18T14:38:50</date>
+  <millis>1560839930981</millis>
+  <sequence>8</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : return null</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-18T14:38:50</date>
+  <millis>1560839930981</millis>
+  <sequence>9</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Admin/Customer list/Testcase_Customerlist</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-18T14:38:50</date>
+  <millis>1560839930981</millis>
+  <sequence>10</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Admin/Customer list/Testcase_Customerlist</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-06-18T14:38:51</date>
+  <millis>1560839931016</millis>
+  <sequence>11</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Admin/Customer list/Testcase_Editcustomer</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Admin/Customer list/Testcase_Editcustomer</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Admin/Customer list/Testcase_Editcustomer</property>
+  <property name="source">H:\\Katalon Studio\\API\\CDG - test\\Test Cases\\Admin\\Customer list\\Testcase_Editcustomer.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-06-18T14:38:51</date>
+  <millis>1560839931218</millis>
+  <sequence>13</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : comment(\&amp;quot;Edit customer data\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">16</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-06-18T14:38:51</date>
+  <millis>1560839931340</millis>
+  <sequence>14</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Edit customer data</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-18T14:38:51</date>
+  <millis>1560839931341</millis>
+  <sequence>15</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : comment(\&amp;quot;Edit customer data\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-06-18T14:38:51</date>
+  <millis>1560839931342</millis>
+  <sequence>16</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : sendRequestAndVerify(findTestObject(\&amp;quot;Admin/Customers list/Edit customer data\&amp;quot;, [\&amp;quot;url\&amp;quot;:url, \&amp;quot;cookies\&amp;quot;:cookiesspecialist, \&amp;quot;id\&amp;quot;:\&amp;quot;5cac0471924e18084f8d1a2d\&amp;quot;]))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">18</property>
+  <property name="stepIndex">2</property>
+</record>

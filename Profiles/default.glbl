@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://testing.adeptforms.com/'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Bearer eyJ1c2VySUQiOiI1ZDE0MmEzMzkyNGUxODA4NGZkZmQ4ODUiLCJjb21wYW55SUQiOiI1OTQ4ZjMzNTU2ZDZjOTE0NzkxNTRkYTIiLCJleHAiOjE2MDE1OTY4MDAsImlhdCI6MTU2OTk5OTExN30.W4b03WOrJwcUglpe0jVCcPAEr4IorHDnfN5oRPt7V-c'</initValue>
+      <name>token</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'PHPSESSID=v7q077nf8ut9j6g9nrt5p2r091; path=/my-service'</initValue>
+      <name>cookies</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Bearer eyJ1c2VySUQiOiI1ZDE0MmEzMzkyNGUxODA4NGZkZmQ4ODUiLCJjb21wYW55SUQiOiI1OTQ4ZjMzNTU2ZDZjOTE0NzkxNTRkYTIiLCJleHAiOjE2MDIwMjg4MDAsImlhdCI6MTU3MDQzNTQyMX0.XD8nqR2Ok_yIYuO8ua-WzuckIXGXSy_RMJPnq-XO34M'</initValue>
+      <name>tokenapp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'PHPSESSID=v7q077nf8ut9j6g9nrt5p2r091'</initValue>
+      <name>cookiesspecialist</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Bearer eyJ1c2VySUQiOiI1OWFkMDQ5MzNmNmE1MTEyYjMzZGRiMzIiLCJjb21wYW55SUQiOiI1OTQ4ZjMzNTU2ZDZjOTE0NzkxNTRkYTIiLCJleHAiOjE1OTMyMTYwMDAsImlhdCI6MTU2MTYwMTU2MH0.glOIQ18UGxwX8rQlACH9FLan4slfLjP4GlzSfjp5qnw'</initValue>
+      <name>tokencsapp</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

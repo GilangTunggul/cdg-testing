@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Testcase_Changedrepairstatus</name>
+   <tag></tag>
+   <comment>Success to changed status repair</comment>
+   <testCaseGuid>25f2d6a5-cc98-4cb6-9262-c90d01062ea7</testCaseGuid>
+</TestCaseEntity>

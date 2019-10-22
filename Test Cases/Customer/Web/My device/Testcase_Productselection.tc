@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Testcase_Productselection</name>
+   <tag></tag>
+   <comment>Show product selection from magento</comment>
+   <testCaseGuid>46d75810-c7aa-4c7e-8a62-65c60a09aedc</testCaseGuid>
+</TestCaseEntity>
