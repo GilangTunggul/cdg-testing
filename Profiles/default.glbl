@@ -21,7 +21,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Bearer eyJ1c2VySUQiOiI1ZDE0MmEzMzkyNGUxODA4NGZkZmQ4ODUiLCJjb21wYW55SUQiOiI1OTQ4ZjMzNTU2ZDZjOTE0NzkxNTRkYTIiLCJleHAiOjE2MDIwMjg4MDAsImlhdCI6MTU3MDQzNTQyMX0.XD8nqR2Ok_yIYuO8ua-WzuckIXGXSy_RMJPnq-XO34M'</initValue>
+      <initValue>'Bearer eyJ1c2VySUQiOiI1ZDE0MmEzMzkyNGUxODA4NGZkZmQ4ODUiLCJjb21wYW55SUQiOiI1OTQ4ZjMzNTU2ZDZjOTE0NzkxNTRkYTIiLCJleHAiOjE2MDMzMjQ4MDAsImlhdCI6MTU3MTcxNzg5MX0.Jrz0YQDVum3D0t79OYPnQhO2IL4CZ-m8m2G8OLBJtbM'</initValue>
       <name>tokenapp</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestCase_RegisterCustomerByPhoneNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a053076d-bbf1-4a19-9cef-b3411be76992</testCaseGuid>
+</TestCaseEntity>

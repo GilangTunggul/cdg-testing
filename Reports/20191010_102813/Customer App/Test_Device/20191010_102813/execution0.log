@@ -2386,3 +2386,75 @@
   <nestedLevel>0</nestedLevel>
   <property name="harId">d2d074b3-73c7-4caf-b45f-a70da80f4147</property>
 </record>
+<record>
+  <date>2019-10-10T16:43:09</date>
+  <millis>1570700589330</millis>
+  <sequence>9894</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1836</thread>
+  <message>HAR: C:\\Users\\HEWLET~1\\AppData\\Local\\Temp\\har3000614167440039195\\requests\\ModalContext\\19.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">b0b0c1b0-39bd-40bd-830d-72996731fc8d</property>
+</record>
+<record>
+  <date>2019-10-10T16:44:59</date>
+  <millis>1570700699157</millis>
+  <sequence>9914</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1853</thread>
+  <message>HAR: C:\\Users\\HEWLET~1\\AppData\\Local\\Temp\\har593670492607740191\\requests\\ModalContext\\20.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">bffd5b4a-11a4-4f8e-ad94-a9b623a73525</property>
+</record>
+<record>
+  <date>2019-10-10T16:46:08</date>
+  <millis>1570700768891</millis>
+  <sequence>9934</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1891</thread>
+  <message>HAR: C:\\Users\\HEWLET~1\\AppData\\Local\\Temp\\har3046671001635193479\\requests\\ModalContext\\21.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">0294e404-13b5-47aa-8580-d2b96a94c523</property>
+</record>
+<record>
+  <date>2019-10-10T16:51:30</date>
+  <millis>1570701090164</millis>
+  <sequence>9957</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1925</thread>
+  <message>HAR: C:\\Users\\HEWLET~1\\AppData\\Local\\Temp\\har3551490471266405791\\requests\\ModalContext\\22.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">1808fc89-acfa-420b-9910-e41f857173c8</property>
+</record>
+<record>
+  <date>2019-10-10T16:51:41</date>
+  <millis>1570701101254</millis>
+  <sequence>9980</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1938</thread>
+  <message>HAR: C:\\Users\\HEWLET~1\\AppData\\Local\\Temp\\har2441375331634091764\\requests\\ModalContext\\23.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">eebe5af5-4b0d-42d3-9620-a8d792687ec9</property>
+</record>
+<record>
+  <date>2019-10-10T16:53:43</date>
+  <millis>1570701223064</millis>
+  <sequence>10008</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1975</thread>
+  <message>HAR: C:\\Users\\HEWLET~1\\AppData\\Local\\Temp\\har5157247634603713703\\requests\\ModalContext\\24.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">091ba1db-9d3e-4d26-aa21-8b664b9145a6</property>
+</record>

@@ -16,4 +16,16 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Customer/App/My payment/Testcase_Paymentlist</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>15dc6211-de42-4d66-a577-87272a8d64b4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Customer/App/My payment/TestCase_PaymentDetail</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7dd9861c-b64b-495f-a727-f8e55dcd480e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Customer/App/My payment/TestCase_CheckoutPayment</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
